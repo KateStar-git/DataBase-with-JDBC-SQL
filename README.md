@@ -14,7 +14,7 @@ A simple program/exercise using JDBC that:
 
 1. creates a database schema in accordance with the presented E-R diagram (do not define integrity restrictions such as Master Key and Foreign Key in the database).
 
-2. Fill in the TEACHER, STUDENT, SUBJECT, and ASSESSMENT tables with sample data.
+2. Fill in the NAUCZYCIEL, UCZEŃ, PRZEDMIOT, and OCENA tables with sample data.
 
-3. Enables assessment - filling out the EVALUATION table. Input data in the form of idn, idu, idp, ido and the type of grade ("C" - partial, "S" - semester) should be entered from the console.
+3. Enables assessment - filling out OCENIANIE table. Input data in the form of idn, idu, idp, ido and the type of grade ("C" - partial, "S" - semester) should be entered from the console.
 
